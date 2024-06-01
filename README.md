@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hashini Divyanjanee</h1>
 <h3 align="center">A passionate Developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanjanee&label=Profile%20views&color=0e75b6&style=flat" alt="divyanjanee" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=divyanjanee&label=Profile%20views&color=0e75b6&style=flat" alt="divyanjanee" /> </p>
 
 - 🔭 I’m currently working on [Filling Station Management System](https://github.com/divyanjanee/Fuel-Station-Management-System.git)
 
