@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hashini-divyanjanee-217466246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hashini-divyanjanee-217466246?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://fb.com/hashini divyanjanee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hashini divyanjanee" height="30" width="40" /></a>
 <a href="https://instagram.com/hashini divyanjanee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hashini divyanjanee" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codecrafts academy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codecrafts academy" height="30" width="40" /></a>
+<a href="www.youtube.com/@CodeCraftsAcademy-yx8lv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codecrafts academy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
