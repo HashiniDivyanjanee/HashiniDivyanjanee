@@ -2,6 +2,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyanjanee&label=Profile%20views&color=0e75b6&style=flat" alt="divyanjanee" /> </p>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HashiniDivyanjanee&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=true" height="242" alt="activity-graph graph"  />
+</div>
+
 - 🔭 I’m currently working on [Filling Station Management System](https://github.com/divyanjanee/Fuel-Station-Management-System.git)
 
 - 🌱 I’m currently learning **Flutter, Java,Swift**
