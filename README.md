@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HashiniDivyanjanee&show_icons=true&locale=en" alt="HashiniDivyanjanee" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanjanee&" alt="divyanjanee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HashiniDivyanjanee&" alt="HashiniDivyanjanee" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Coffee" /></a></p><br><br>
