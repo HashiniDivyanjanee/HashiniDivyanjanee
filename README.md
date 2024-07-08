@@ -23,9 +23,9 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=HashiniDivyanjanee&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HashiniDivyanjanee&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HashiniDivyanjanee&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=HashiniDivyanjanee&theme=highcontrast&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HashiniDivyanjanee&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=HashiniDivyanjanee&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Coffee" /></a></p><br><br>
