@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Filling Station Management System](https://github.com/divyanjanee/Fuel-Station-Management-System.git)
 
-- 🌱 I’m currently learning **Flutter, Java,Swift**
+- 🌱 I’m currently learning **Flutter, Java, Swift**
 
 - 💬 Ask me about **Flutter, Java**
 
