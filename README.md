@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently working on [Vehicle Service Center Flutter Mobile App](https://github.com/HashiniDivyanjanee/vehicle_service_app.git)
 
-- 🌱 I’m currently learning **Flutter, Java, Swift**
-
-- 💬 Ask me about **Flutter, Java**
+- 🌱 I’m currently learning **Flutter, Dart, Java**
 
 - 📫 How to reach me **hashinidivyanjanee1999@gmail.com**
 
